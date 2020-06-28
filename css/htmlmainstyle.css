@@ -12,7 +12,7 @@ h1 {
 h2 {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+    text-align: left;
     line-height: 20px;
 }
 h3 {
@@ -65,5 +65,3 @@ h4 {
 .icon2 {
     height: 100px;
 }
-
-.table
