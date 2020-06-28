@@ -1,0 +1,69 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 20px;
+    margin: 10px;
+}
+h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 20px;
+}
+h3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    line-height: 20px;
+}
+h4 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 20px;
+}
+
+#fastfood-icon {
+    height: 229px;
+}
+#pizza-icon {
+    height: 229px;
+}
+#order-icon {
+    height: 229px;
+}
+#fastfood-icon2 {
+    height: 100px;
+}
+#pizza-icon2 {
+    height: 100px;
+}
+#order-icon2 {
+    height: 100px;
+}
+
+.text {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 20px;
+}
+
+.red {
+    color: red;
+}
+
+.icon1 {
+    height: 229px;
+}
+
+.icon2 {
+    height: 100px;
+}
+
+.table
